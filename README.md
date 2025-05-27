@@ -1,7 +1,7 @@
  
 ## ✅ Recommended GitHub Repo Layout
 
-```
+```sh
 git-audit-lab/
 ├── study/                    # The actual Git repo with commits and tag
 │   ├── .git/                 # Hidden Git history (already initialized)
